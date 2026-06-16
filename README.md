@@ -1,4 +1,4 @@
-# Credit Risk Modeling
+# Credit Risk Modeling.
 
 A comprehensive Jupyter Notebook-based project for building and analyzing credit risk models. This repository contains implementations of various machine learning techniques applied to credit risk assessment and default prediction.
 
